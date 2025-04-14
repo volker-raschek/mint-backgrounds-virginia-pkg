@@ -1,7 +1,6 @@
 # mint-backgrounds-virginia
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-virginia?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-virginia-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-virginia-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-virginia)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-virginia`. Instead of building the
